@@ -9,9 +9,5 @@
 邮箱：13310689503@163.com
 
 
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hard-working-He&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
